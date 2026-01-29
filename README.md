@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">## Lab Foundations:<br>- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)<br><br>## Identity & Access Security:<br>- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs<br>- **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy</p>
+<p align="left">##Lab Foundations:<br>- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)<br><br>##Identity & Access Security:<br>- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs<br>- **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy</p>
 
 ###
 
@@ -70,13 +70,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adeajib05.adeajib05&right_color=darksalmon"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeajib05/adeajib05/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeajib05/adeajib05/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adeajib05/adeajib05/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
