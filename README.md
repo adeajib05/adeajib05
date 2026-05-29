@@ -59,6 +59,8 @@
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/adeajib05/homelab-setup) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/adeajib05/active-directory-sim) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/adeajib05/AWS-Deployment) |
+| 04-vulnerability-assessment | Placeholder | [View Repo](https://github.com/adeajib05/vulnerability-assessment) |
+| 05-mitre-threat-hunting | Placeholder | [View Repo](https://github.com/adeajib05/mitre-threat-hunting-project) |
 
 ###
 
